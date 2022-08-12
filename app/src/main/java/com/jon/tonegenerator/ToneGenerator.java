@@ -10,6 +10,7 @@ import android.util.Log;
 // TODO: When it reaches MAX_INDEX (some multiple of 2 pi) then I set it equal to 0 again
 
 
+
 public class ToneGenerator {
 
     final String TAG = "TONE GENERATOR";
